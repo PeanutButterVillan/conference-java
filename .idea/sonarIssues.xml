@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/java/uk/gov/defra/exports/action/TestAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/java/uk/gov/defra/exports/config/TestContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/java/uk/gov/defra/exports/test/TestBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/java/uk/gov/defra/exports/test/idm/AssignServiceCreateAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/resources/config/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/resources/data/RegistrationTestFlows/REGISTER_SOLE_Trader.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/exports/ehco-endtoend-tests/src/main/resources/data/RegistrationTestFlows/REG_MOD_NewUser.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/idm-vsts/DEFRA-IDM-FUNCTIONAL-TEST-SUITE/src/main/resources/config/application-Regression.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SessionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Session.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Speaker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SessionRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SpeakerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conference-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pluralsight/model/Speaker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pluralsight/repository/HibernateSpeakerRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pluralsight/service/SpeakerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
